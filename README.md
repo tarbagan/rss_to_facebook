@@ -8,6 +8,7 @@ To check the RSS of the stream, you save to the Mysql database
 1) Create a mysql table with the 'ID' (auto-invoke), 'url'
 2) Get access_token Facebook
 3) Configure the script
+4) Configure Cron
 
 Demo https://www.facebook.com/tuva24.ru/
 http://tuva24.ru/
