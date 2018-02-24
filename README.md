@@ -15,5 +15,4 @@ http://tuva24.ru/
 
 """
 Parser and posting to facebook
-@author: Irgit V/A
 """
