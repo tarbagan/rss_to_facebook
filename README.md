@@ -5,7 +5,8 @@ To check the RSS of the stream, you save to the Mysql database
 
 #Install
 
-1) Create a mysql table with the 'ID' (auto-invoke), 'url'
+1) Create a mysql table with the 'ID' (AUTO_INCREMENT), 'url'
+CREATE TABLE tuva (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, url VARCHAR(255))
 2) Get access_token Facebook
 3) Configure the script
 4) Configure Cron
