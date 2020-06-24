@@ -14,6 +14,8 @@ CREATE TABLE tuva (id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, url VARCHAR(255))
 Demo https://www.facebook.com/tuva24.ru/
 http://tuva24.ru/
 
+Autor: Irgit Valery https://github.com/tarbagan
+
 """
 Parser and posting to facebook
 """
